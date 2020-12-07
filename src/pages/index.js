@@ -11,7 +11,6 @@ const IndexPage = () => (
     <h1>Hello Div Element</h1>
     <p>Welcome to the Github Exercisa.</p>
     <Link to="/Commits/">Go to Commits</Link> <br />
-    <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
 )
 

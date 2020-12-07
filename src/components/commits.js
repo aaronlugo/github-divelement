@@ -25,7 +25,6 @@ const CommitsData = () => {
   } else if (isLoading) {
     return <div>Loading...</div>;
   } else {
-    console.log('comm', commits)
     return (
       <Table striped bordered hover>
         <thead>
