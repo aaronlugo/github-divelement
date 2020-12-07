@@ -10,7 +10,7 @@ const IndexPage = () => (
     <SEO title="Home" />
     <h1>Hello Div Element</h1>
     <p>Welcome to the Github Exercisa.</p>
-    <Link to="/page-2/">Go to page 2</Link> <br />
+    <Link to="/Commits/">Go to Commits</Link> <br />
     <Link to="/using-typescript/">Go to "Using TypeScript"</Link>
   </Layout>
 )
