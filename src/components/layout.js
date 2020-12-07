@@ -7,6 +7,7 @@
 
 import React from "react"
 import PropTypes from "prop-types"
+import 'bootstrap/dist/css/bootstrap.min.css';
 // import { useStaticQuery, graphql } from "gatsby"
 
 import Header from "./header"
